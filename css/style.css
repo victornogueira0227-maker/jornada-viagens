@@ -1,6 +1,20 @@
+:root{
+    --background-primery-color: #ffffff;
+    --background-secondary-color: #f5f5f5;
+    --background-tertiary-color: #000000;
+
+    --button-primery-color:#8F0101;
+    --button-secondary-colo:#B81515;
+
+    --text-primery-color:#222222;
+    --text-secondary-color:#ffffff;
+    
+}
+
 /*CSS RESET*/
 body, img, h1, p, legend,  fieldset, label, input, textarea, button{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
