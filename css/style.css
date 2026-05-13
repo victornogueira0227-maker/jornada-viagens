@@ -5,7 +5,7 @@
     font-display: swap;
 }
 
-:root{
+:root {
     --primery-color:#8F0101;
     --seocndary-color: #B81515;
 
@@ -26,7 +26,16 @@
 }
 
 /*CSS RESET*/
-body, img, h1, p, legend,  fieldset, label, input, textarea, button{
+body,
+ img,
+h1,
+p,
+legend,
+fieldset,
+label,
+input,
+textarea,
+button {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
