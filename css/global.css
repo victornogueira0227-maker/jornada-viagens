@@ -27,7 +27,7 @@
 
 /*CSS RESET*/
 body,
- img,
+img,
 h1,
 p,
 legend,
@@ -39,4 +39,8 @@ button {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+body{
+    font-family: "Montserrat";
 }
