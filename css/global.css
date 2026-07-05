@@ -53,13 +53,14 @@ body{
     text-align: center;
 }
 
-.section-tittle hr{
+hr{
     width: 180px;
     height: 4px;
     background-color: var(--secondary-color);
     border: none;
     margin: 16px auto 32px ;
 }
+
 
 .button{
     width: 280px;
