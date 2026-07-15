@@ -43,6 +43,10 @@
 }
 
 @media screen and (min-width: 768px) {
+    .categories .section-title{
+        width: 100%;
+    }
+
     .categories-cards {
         flex-direction: row;
         flex-wrap: wrap;
@@ -73,4 +77,13 @@
 
 .section-title{
     font-weight: 700px;
+}
+
+/* trick */
+.categories-cards .card.single-line.transfer img {
+    margin: 10px 0 20px;
+}
+
+.categories-title{
+    text-align: center;
 }
