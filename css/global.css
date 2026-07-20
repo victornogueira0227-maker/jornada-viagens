@@ -46,6 +46,11 @@ body{
     color: var(--text-primery-color);
 }
 
+.section-tittle{
+    width: 280px;
+    margin: 0 auto 32px;
+}
+
 .section-tittle h2{
     font-size: 28px;
     font-weight: var(--title-weight);
@@ -85,4 +90,9 @@ hr{
     .button:hover{
         background-color: var(--button-primery-color);
     }
+}
+
+section {
+  width: 312px;
+  margin: 0 auto;
 }
