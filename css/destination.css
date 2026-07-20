@@ -17,10 +17,6 @@
 }
 
 .destination .item header{
-    display: block;
-    background-color: transparent;
-    position: static;
-    padding: 0;
     margin-bottom: 24px;
 }
 
@@ -42,6 +38,11 @@
 .destination .button {
   width: 100%;
 
+}
+
+.destination .item{
+  height: 718px;
+  width: 648px;
 }
 
 .destination .item .tokyo .img-destination{
