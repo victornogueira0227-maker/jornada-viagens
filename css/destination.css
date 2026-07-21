@@ -40,11 +40,6 @@
 
 }
 
-.destination .item{
-  height: 718px;
-  width: 648px;
-}
-
 .destination .item .tokyo .img-destination{
   background: url(../img/Tokyo-mobile.jpeg.jpg)
 }
@@ -83,6 +78,9 @@
   }
   .destination .item .osaka{
     background-image: url(../img/Osaka-tablet-desk.jpeg.jpg);
+  }
+  .destination{
+    align-items: center
   }
 
 }
